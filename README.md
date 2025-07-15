@@ -1,17 +1,33 @@
-## LeetCode Practice 100 Days
+# 🧠 LeetCode Practice 100 Days
 
-📌 Goal: Solve 100+ LeetCode problems across different topics to improve problem-solving skills and prepare for technical interviews.
+Welcome to my LeetCode problem-solving journey! I use this repo to practice algorithms and data structures regularly.
 
-### 🔥 Weekly Tracker
+## 🎯 Goal
+
+Solve 100+ LeetCode problems to improve problem-solving skills and prepare for software engineering interviews.
+
+---
+
+## 📆 Weekly Progress
 
 | Week | Problems Solved |
 |------|------------------|
-| Week 1 | 10 ✅ |
-| Week 2 | 12 ✅ |
+| Week 1 | ✅ 10 |
+| Week 2 | ⏳ In Progress |
 
-### 🧠 Topics Covered
+---
+
+## ✅ Topics Covered
+
+- [x] Arrays
 - [x] Two Pointers
-- [x] Sliding Window
 - [ ] Graphs
 - [ ] Dynamic Programming
+- [ ] Trees
+- [ ] Backtracking
 
+---
+
+## 🔗 Useful Links
+
+- [My LeetCode Profile](https://leetcode.com/YOUR_USERNAME)
